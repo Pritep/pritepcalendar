@@ -1,0 +1,12 @@
+{
+  "name": "pritepcalendar",
+  "outputfilename": "pritepcalendar",
+  "frontend:install": "yarn install",
+  "frontend:build": "yarn build",
+  "frontend:dev:watcher": "yarn dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "Pritep",
+    "email": "omnie05@gmail.com"
+  }
+}
